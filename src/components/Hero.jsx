@@ -7,19 +7,19 @@ const Hero =()=>{
                     SHOES.YOUR FEET DESERVE THE BEST AND WE'RE HERE TO HELP YOU WITH OUR SHOES. </p>
                     <div className="hero-btn">
                         <button>Shop Now</button>
-                        <button>Category</button>
+                        <button className="secondary-btn">Category</button>
                     </div>
                     <div className="shopping">
                         <p>Also Available On</p>
 
                         <div className="brand-icons">
-                            <img src="/images/amazon.png"alt="amazon"/>
-                            <img src="/images/flipkart.png"alt="fipkart"/>
+                            <img src="./images/amazon.png"alt="amazon"/>
+                            <img src="./images/flipkart.png"alt="fipkart"/>
                         </div>
                     </div>
             </div>
            <div className="hero-image">
-           <img src="/images/shoe_image.png"alt="shoe"/>
+           <img src="./images/shoe_image.png"alt="shoe"/>
 
            </div>
         </main>

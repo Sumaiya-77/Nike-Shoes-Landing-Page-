@@ -2,7 +2,7 @@ const Nav = () => {
   return (
     <nav className="conatiner">
       <div className="logo">
-        <img src="/images/brand_logo.png" alt="logo" />
+        <img src="./images/brand_logo.png" alt="logo" />
       </div>
       <ul>
         <li href="#">Menu</li>
